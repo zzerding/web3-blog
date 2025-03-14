@@ -6,3 +6,4 @@ updatedDate: "22 Dec 2024"
 tags: ["defin", "web3"]
 ---
 ## web3是什么
+![test](../../assets/images/posts/image_fx.jpg)
