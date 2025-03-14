@@ -1,5 +1,5 @@
 media:
-  input: arc/assets
+  input: src/assets
   output: /
 content:
   - name: posts
